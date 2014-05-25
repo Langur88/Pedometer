@@ -1,4 +1,0 @@
-Pedometer
-=========
-
-A pedometer plugin.
