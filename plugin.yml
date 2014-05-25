@@ -1,0 +1,6 @@
+name: Pedometer
+version: 1.0
+author: Langur
+description: A steps plugin.
+main: me.Langur.Pedometer.Pedometer
+commands:
